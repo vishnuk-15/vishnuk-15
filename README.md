@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I'm **Vishnu**, a student at **Alliance University** passionate about **Machine Learning** and **Generative AI**.  
+Hi, I'm **Vishnuvardhan**, a student at **Alliance University** passionate about **Machine Learning** and **Generative AI**.  
 Currently working on projects involving predictive modeling, GenAI applications, and intelligent systems.  
 Exploring innovative solutions at the intersection of data and creativity.  
 Let's connect and collaborate on exciting AI-driven ideas!
